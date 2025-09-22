@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
 Repository of D.B. Intenational Sales & Services, Inc. by MIS Department.<br><br>Visit our site to contact us. https://dbiphils.com
 
 
@@ -10,6 +10,5 @@ Repository of D.B. Intenational Sales & Services, Inc. by MIS Department.<br><br
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DBI-MIS&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DBI-MIS&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
